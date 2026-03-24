@@ -24,7 +24,7 @@ Analyzed customer churn patterns to identify revenue loss and retention opportun
 - Calculated churn rate and revenue impact  
 - Suggested retention strategies  
 
-[View Project](https://github.com/RohitKumar0072002/customer-churn-analysis)
+[View Project](https://github.com/RohitKumar0072002/Customer-Churn-Revenue-Impact-Analysis-MySQL-)
 
 ---
 
@@ -34,7 +34,7 @@ Built an interactive dashboard to track revenue trends and product performance.
 - Identified monthly sales trends  
 - Highlighted top-performing products  
 
-[View Project](https://github.com/RohitKumar0072002/sales-analysis)
+[View Project](https://github.com/RohitKumar0072002/excel-retail-sales-dashboard)
 
 ---
 
@@ -44,20 +44,24 @@ Processed raw data using Pandas to make it analysis-ready.
 - Removed duplicates and fixed data types  
 - Improved data quality for analysis  
 
-[View Project](https://github.com/RohitKumar0072002/data-cleaning)
+[View Project](https://github.com/RohitKumar0072002/python-sales-analysis)
 
 ---
 
 ## Other Projects
 
-- Social Media Ads Analysis – Python & Data Visualization  
-https://github.com/RohitKumar0072002/social-network-ads  
+- Supermarket Sales Analysis - SQL
+[View Project](https://github.com/RohitKumar0072002/Supermarket-Sales-Analysis) 
 
-- Retail Data Analysis – SQL & Excel  
-https://github.com/RohitKumar0072002/online-retail  
+- Supermarket Sales Analysis – PowerBi
+[View Project](https://github.com/RohitKumar0072002/supermarket-sales-powerbi)
 
-- Excel Mini Dashboards – Data Visualization  
-https://github.com/RohitKumar0072002  
+- Retail Sales Analysis - SQL
+[View Project](https://github.com/RohitKumar0072002/Retail-Sales-SQL-Analysis)
+
+- Telco Customer Churn - PowerBi
+[View Project](https://github.com/RohitKumar0072002/Telco-Customer-Churn)
+
 
 ---
 
@@ -66,8 +70,8 @@ To apply my data analytics skills in solving real-world business problems and co
 
 ---
 ## Certificates
-- Data Analytics Fluency Pathways: https://github.com/RohitKumar0072002/Certificates
+- Data Analytics Fluency Pathways: [View Certificate](https://github.com/RohitKumar0072002/Certificates)
 
 ---
 ## Connect With Me
-- LinkedIn: https://www.linkedin.com/in/rohit-kumar-14bb853aa
+- LinkedIn: [Go To Profile](https://www.linkedin.com/in/rohit-kumar-14bb853aa)

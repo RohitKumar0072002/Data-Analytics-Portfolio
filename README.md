@@ -18,6 +18,17 @@ I have worked on multiple projects using SQL, Python (Pandas), Excel, and Power 
 
 ## Featured Projects
 
+### BlinkIt Retail Sales Analysis (SQL +  Power BI)
+Analyzed 8K+ retail transactions using SQL & Power BI to uncover sales trends, 
+optimize category performance, and drive business insights.
+- Performed end-to-end retail data analysis (SQL + Power BI) on 8K+ records
+- Designed interactive dashboards with KPI tracking, trend analysis, and Top-N insights
+- Generated actionable business recommendations to improve sales performance and efficiency
+
+[View SQL Project](https://github.com/RohitKumar0072002/BlinkIt-Sales-Analysis---SQL/tree/main) | [View Dashboard](https://github.com/RohitKumar0072002/BlinkIt-Sales-Dashboard---PowerBI-/tree/main)
+
+---
+
 ### Customer Churn Analysis (SQL)
 Analyzed customer churn patterns to identify revenue loss and retention opportunities.  
 - Identified high churn segments  
